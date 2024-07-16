@@ -16,10 +16,7 @@ Diabetic Prediction Project
 
 
            - Collect a dataset containing relevant patient information, such as:
-
-
-           
-              Age,	Gender,	Polyuria,	Polydipsia,	sudden weight loss,	weakness,	Polyphagia,	Genital thrush,	visual blurring,	Itching,	Irritability,	delayed healing,	partial paresis,	 
+                  Age,	Gender,	Polyuria,	Polydipsia,	sudden weight loss,	weakness,	Polyphagia,	Genital thrush,	visual blurring,	Itching,	Irritability,	delayed healing,	partial paresis,	 
               muscle stiffness,	Alopecia,	Obesity.
 
 
