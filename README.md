@@ -26,27 +26,13 @@ Diabetic Prediction Project
 
 
         - Clean and preprocess the dataset:
-
-
-        
-             - we have clean dataset
-
-
-             
-             - Convert categorical variables into numerical variables
-
-
-
-             
+           - we have clean dataset
+           - Convert categorical variables into numerical variable
 **Step 3: Feature Selection**
 
 
-
-       - Select relevant features to use in the model:
-
-
-       
-           - Identify correlations between features and diabetes
+         - Select relevant features to use in the model:
+            - Identify correlations between features and diabetes
 
 
            
@@ -55,10 +41,7 @@ Diabetic Prediction Project
 
 
        - Choose a suitable machine learning algorithm:
-
-
-       
-           - Classification algorithms (e.g., Support Vector Machine, K Nearest Neigbour, Naive bayes)
+          - Classification algorithms (e.g., Support Vector Machine, K Nearest Neigbour, Naive bayes)
 
 
            
@@ -68,10 +51,7 @@ Diabetic Prediction Project
 
 
        - Train the model using the selected features and algorithm:
-
-
-       
-           - Split the dataset into training and testing sets
+          - Split the dataset into training and testing sets
 
 
 
@@ -80,7 +60,5 @@ Diabetic Prediction Project
 
 
        - Evaluate the performance of the model:
-
-           - Use metrics such as accuracy, precision, recall, F1-score
-
-           - Compare the performance of different models 
+         - Use metrics such as accuracy, precision, recall, F1-score
+         - Compare the performance of different models 
