@@ -84,10 +84,6 @@ Diabetic Prediction Project
 
        - Evaluate the performance of the model:
 
-
-       
            - Use metrics such as accuracy, precision, recall, F1-score
 
-
-           
            - Compare the performance of different models 
