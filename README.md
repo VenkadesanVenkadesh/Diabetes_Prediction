@@ -66,6 +66,9 @@ Diabetic Prediction Project
          
 
 **Step 7: Data Visualization**
+
+
+
         - create plot for better  data understanding
 
          
